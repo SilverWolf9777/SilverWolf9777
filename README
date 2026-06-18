@@ -1,1 +1,90 @@
-Hi, I'm Dylan Woolf! I'm currently studying software engineering at TripleTen. The languages I've been focusing on so far are HTML, CSS, and Javascript. I've learned so much, I have gone from knowing nothing to be able to code a full responsive website. I've really been enjoying learning and am looking forward for more.
+# Hi there, I'm Dylan Woolf 👋
+
+### Aspiring Software Engineer | Full Stack Developer
+
+I'm a software engineering student at TripleTen with a passion for building full-stack web applications and continuously expanding my technical skills. What started with HTML, CSS, and JavaScript has grown into developing responsive frontends, RESTful APIs, and database-driven applications.
+
+I'm always looking for opportunities to learn, solve problems, and create software that makes an impact.
+
+---
+
+## 🚀 About Me
+
+* 🌱 Currently studying Software Engineering through TripleTen.
+* 💻 Building full-stack web applications.
+* 🔧 Interested in backend development, software architecture, and cloud technologies.
+* 📚 Always learning new tools and best practices.
+* 🎯 Goal: Grow into a Software Engineer building scalable and maintainable applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React
+* Responsive Design
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+### Database
+
+* MongoDB
+* Mongoose
+
+### Tools
+
+* Git & GitHub
+* npm
+* Postman
+* Webpack
+* Babel
+* ESLint
+* Nginx
+* Google Cloud
+* VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 📰 News Explorer
+
+A full-stack news application that allows users to search for articles, create accounts, save favorites, and manage their own collection of news stories.
+
+**Built with:** React, Node.js, Express, MongoDB, JWT Authentication
+
+---
+
+### 👕 WTWR (What to Wear?)
+
+A weather-based application that recommends clothing based on current conditions and allows users to manage their clothing items.
+
+**Built with:** React, JavaScript, Node.js, Express, MongoDB
+
+---
+
+## 🌱 Currently Learning
+
+* Software Architecture
+* Scalable Backend Design
+* SQL
+* Cloud Technologies
+* Clean Code Principles
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/SilverWolf9777/
+* LinkedIn: https://www.linkedin.com/in/dylan-woolf-470804390/
+
+Thanks for visiting my profile! Feel free to check out my projects and follow my journey as I continue to grow as a software engineer.
